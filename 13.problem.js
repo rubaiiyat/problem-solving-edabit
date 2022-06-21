@@ -1,4 +1,4 @@
-// Buggy Code (Part 5)
+// Buggy Code (Part 5) created an infinite loop
 
 function printArray(number) {
   var newArray = [];
